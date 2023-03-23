@@ -3,8 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "free"]
+	path = free
+	url = https://github.com/cran/free
+	shallow = true
+	registered = true
 [submodule "ktweedie"]
 	path = ktweedie
 	url = https://github.com/ly129/ktweedie
+	shallow = true
+	registered = true
+[submodule "netcox"]
+	path = netcox
+	url = https://github.com/cran/netcox
+	shallow = true
+	registered = true
+[submodule "sox"]
+	path = sox
+	url = https://github.com/cran/sox
 	shallow = true
 	registered = true
