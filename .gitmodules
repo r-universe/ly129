@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "CausalMetaR"]
+	path = CausalMetaR
+	url = https://github.com/ly129/causalmetar
 [submodule "free"]
 	path = free
 	url = https://github.com/cran/free
