@@ -11,9 +11,6 @@
 [submodule "ktweedie"]
 	path = ktweedie
 	url = https://github.com/ly129/ktweedie
-[submodule "netcox"]
-	path = netcox
-	url = https://github.com/cran/netcox
 [submodule "sox"]
 	path = sox
 	url = https://github.com/cran/sox
